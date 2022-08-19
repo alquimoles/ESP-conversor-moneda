@@ -10,6 +10,21 @@
 #### Sigue las lecciones y las instrucciones de contenido 📚
 #### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-java) 📃
 
+## Contenido de este repositório
+---
+
+Aqui encontrarás el código con la resolución al desafío del conversor de monedas, recuerda que no existe una única solución, para el mismo problema podemos encontrar diferentes tipos de soluciones y es eso lo que queremos demostrar, por eso disponibilizamos una solución para personas principiantes que están aún aprendiendo a usar este nuevo lenguaje y una solución un poco mas intermediaria, que aplica más conceptos de orientación a objetos y que va un poco más allá en el uso de buenas practicas de programación.
+
+Ahora ¿Cómo es que puedes ver en este repositório esas soluciones? 
+
+Es muy simple, como vemos en la siguiente imagen estamos trabajando con diferentes branchs(ramas) podemos simplemente seleccionar la branch con la solución que deseamos ver:
+
+![image](https://user-images.githubusercontent.com/91544872/185704377-e456d630-4d96-4d76-8799-aa08aeb1cd8e.png)
+
+
+Una vez seleccionada la branch debes seguir el siguiente paso a paso para conseguir hacer el download del código ⬇️ 
+
+
 ## ⬇️ Download
 ---
 
