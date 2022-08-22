@@ -17,7 +17,7 @@ Aqui encontrarás el código con la resolución al desafío del conversor de mon
 
 Ahora ¿Cómo es que puedes ver en este repositório esas soluciones? 
 
-Es muy simple, como vemos en la siguiente imagen estamos trabajando con diferentes branchs(ramas) podemos simplemente seleccionar la branch con la solución que deseamos ver:
+Es muy simple, como vemos en la siguiente imagen estamos trabajando con diferentes branchs(ramas) podemos simplemente seleccionar la branch con la solución que deseamos ver. Estas ramas son una versión nueva y separada del repositorio principal. Las branch permiten trabajar en diferentes partes de un proyecto sin afectar la rama principal, son muy usadas por los desarrolladores para probar nuevas funcionalidades en una aplicación sin afectar la versión  original. En este caso, nosotros las utilizamos para mostrarte dos alternativas posibles de como resolver este desafío.
 
 ![image](https://user-images.githubusercontent.com/91544872/185704377-e456d630-4d96-4d76-8799-aa08aeb1cd8e.png)
 
