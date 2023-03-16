@@ -8,7 +8,7 @@
 
 #### Marca este proyecto con una estrella ⭐
 #### Sigue las lecciones y las instrucciones de contenido 📚
-#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-java) 📃
+#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-back-end/conversordemoneda) 📃
 
 ## Contenido de este repositório
 ---
@@ -106,11 +106,10 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 1) Publicar el proyecto en GitHub
 2) Utiliza el tema/topic:
 
- - Grupo 1: **challengeoneconversorlatam**
- - Grupo 2: **challengeoneconversorlatam2**
+ - Grupo 4: **challengeoneconversorlatam4**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeoneconversorlatam2**"
+Incluye la etiqueta "**challengeoneconversorlatam4**"
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
@@ -121,9 +120,10 @@ Incluye la etiqueta "**challengeoneconversorlatam2**"
 ---
 
 3) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
-🔹 [link del formulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
+🔹 [link del formulario](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp-back-end)
 
-![formulario-esp](https://user-images.githubusercontent.com/91544872/179625558-4dda7e69-bdaf-4a79-9ca9-82cf8fede9de.png)
+![LATAM-pag-entrega-challenge](https://user-images.githubusercontent.com/53662778/225654748-b9ee1a2c-5b9d-4723-a787-192c65f296ae.png)
+
 
 4) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
 5) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
