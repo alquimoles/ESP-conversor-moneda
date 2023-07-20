@@ -106,10 +106,10 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 1) Publicar el proyecto en GitHub
 2) Utiliza el tema/topic:
 
- - Grupo 4: **challengeoneconversorlatam4**
+ - Grupo 5: **challengeoneconversorlatam5**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeoneconversorlatam4**"
+Incluye la etiqueta "**challengeoneconversorlatam5**"
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
